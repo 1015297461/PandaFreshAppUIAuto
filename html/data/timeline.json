@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-321",
+    "children" : [ {
+      "name" : "11336-MainThread",
+      "children" : [ {
+        "name" : "test_create_order[15205816644-152****6644-8-人都傻了-15205816644-777-我家-你家-人都傻了-4242424242424242-111-9999-查看订单]",
+        "uid" : "a1b8a421cb040bdf",
+        "parentUid" : "b5444b2f61592ff4f16900a240c7d540",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636099186757,
+          "stop" : 1636099253437,
+          "duration" : 66680
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'我家'", "'111'", "'4242424242424242'", "'8'", "'152****6644'", "'查看订单'", "'人都傻了'", "'15205816644'", "'15205816644'", "'777'", "'9999'", "'人都傻了'", "'你家'" ]
+      } ],
+      "uid" : "b5444b2f61592ff4f16900a240c7d540"
+    } ],
+    "uid" : "317003d7015848be4988f7a6ab08bad9"
+  } ]
+}
