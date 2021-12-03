@@ -30,6 +30,7 @@ class Test_Login:
     def clear_app(self):
         """每次执行"""
         Base.os_clear()
+        Base.os_rm()
 
     @pytest.fixture(autouse=True)
     def star_app(self):

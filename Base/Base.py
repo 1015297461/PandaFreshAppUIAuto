@@ -15,6 +15,11 @@ class Base:
     def os_clear(cls):
         return os.system('adb shell pm clear com.hungry.panda.market')
 
+    @classmethod
+    def os_rm(cls):
+        # path = os.path.abspath('.') + "/report"
+        return os.system('rd /s/q html')
+
     def remove_report(self):
         path = os.path.abspath('.') + "/report/"
         # Get directory name

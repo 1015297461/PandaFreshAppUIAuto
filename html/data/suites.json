@@ -4,26 +4,39 @@
   "children" : [ {
     "name" : "TestCase",
     "children" : [ {
-      "name" : "TestCreateOrder",
+      "name" : "TestLogin",
       "children" : [ {
-        "name" : "TestCreateOrder",
+        "name" : "Test_Login",
         "children" : [ {
-          "name" : "test_create_order[15205816644-152****6644-8-人都傻了-15205816644-777-我家-你家-人都傻了-4242424242424242-111-9999-查看订单]",
-          "uid" : "a1b8a421cb040bdf",
-          "parentUid" : "12eebf056b8353ed3861e48c3728c022",
+          "name" : "test_login[15205813800-152****3800-8]",
+          "uid" : "73a3641eb4c97351",
+          "parentUid" : "45e04f4610364a38a926f67e8432a656",
           "status" : "passed",
           "time" : {
-            "start" : 1636099186757,
-            "stop" : 1636099253437,
-            "duration" : 66680
+            "start" : 1638526904177,
+            "stop" : 1638526911991,
+            "duration" : 7814
           },
           "flaky" : false,
           "newFailed" : false,
-          "parameters" : [ "'我家'", "'111'", "'4242424242424242'", "'8'", "'152****6644'", "'查看订单'", "'人都傻了'", "'15205816644'", "'15205816644'", "'777'", "'9999'", "'人都傻了'", "'你家'" ]
+          "parameters" : [ "'8'", "'152****3800'", "'15205813800'" ]
+        }, {
+          "name" : "test_login[15205813801-152****3801-8]",
+          "uid" : "eeee2bdcd01f500a",
+          "parentUid" : "45e04f4610364a38a926f67e8432a656",
+          "status" : "passed",
+          "time" : {
+            "start" : 1638526923286,
+            "stop" : 1638526930294,
+            "duration" : 7008
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'8'", "'152****3801'", "'15205813801'" ]
         } ],
-        "uid" : "12eebf056b8353ed3861e48c3728c022"
+        "uid" : "45e04f4610364a38a926f67e8432a656"
       } ],
-      "uid" : "b832532329069bae8c42410093021475"
+      "uid" : "feb37f677fe8d82e91340ffc833cd836"
     } ],
     "uid" : "ee79ae265a842e48c4df30f006daaf4e"
   } ]

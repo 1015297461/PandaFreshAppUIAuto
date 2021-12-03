@@ -1,2 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Nov 05 15:59:46 CST 2021","Fri Nov 05 16:00:53 CST 2021","66680","TestCase","TestCreateOrder","TestCreateOrder","","","test_create_order[15205816644-152****6644-8-人都傻了-15205816644-777-我家-你家-人都傻了-4242424242424242-111-9999-查看订单]",""
+"passed","Fri Dec 03 18:22:03 CST 2021","Fri Dec 03 18:22:10 CST 2021","7008","TestCase","TestLogin","Test_Login","","","test_login[15205813801-152****3801-8]",""
+"passed","Fri Dec 03 18:21:44 CST 2021","Fri Dec 03 18:21:51 CST 2021","7814","TestCase","TestLogin","Test_Login","","","test_login[15205813800-152****3800-8]",""
